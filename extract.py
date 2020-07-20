@@ -2,7 +2,7 @@
 """
 Created on Mon Feb 11 21:25:53 2019
 
-@author: sivac
+@author: satya
 """
 #The extraction process uses the marker dots injected from the inject code 
 #and the image orientation is obtained from the line joining the location of the marker dots 
