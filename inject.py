@@ -2,7 +2,7 @@
 """
 Created on Mon Feb 11 17:39:37 2019
 
-@author: sivac
+@author: satya
 """
 #Injected code takes the image onto which the answers need to be injected and the answer from 
 #the text file and creates a unique key everytime the code is run. The key is used to store
