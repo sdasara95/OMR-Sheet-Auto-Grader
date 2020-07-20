@@ -3,7 +3,7 @@
 """
 Created on Mon Feb 11 20:28:19 2019
 
-@author: Adithya
+@author: Satya
 """
 
 #Importing required packages
